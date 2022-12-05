@@ -552,6 +552,10 @@ small{
         height: 100%;
         background: white;
     }
+    
+    .header{
+        z-index: 10000;
+      }
 }
 
 .info-container{
